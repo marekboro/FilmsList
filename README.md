@@ -1,4 +1,4 @@
-![planning](planning w14d1HW.png)
+![planning](planningw14d1HW.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

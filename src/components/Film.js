@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Film() {
+export default function Film(props) {
     return (
         <li>
-            <p> props.title </p>
+            <a href={props.url} > {props.title} </a>
         </li>
     )
 }
